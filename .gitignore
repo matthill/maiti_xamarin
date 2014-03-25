@@ -4,6 +4,8 @@
 
 .DS_Store
 *.swp
+/MAITI
+
 # mstest test results
 TestResults
 
